@@ -1,4 +1,3 @@
-omnifocus-bugs
-==============
+# omnifocus-bugs
 
-bugs and feature requests I've sent for OmniFocus
+A collection of bugs and feature requests I’ve sent to OmniFocus Support.
