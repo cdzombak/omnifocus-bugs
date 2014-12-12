@@ -28,7 +28,7 @@ Chris
 
 Hi Chris,
 
-Thanks for following up with that info! Could you check to see if quitting and relaunching OmniFocus has any affect on the issue? I’ve set my Mac’s Date & Region Preferences to match yours, and I’m still unable to reproduce the issue on my Mac. 
+Thanks for following up with that info! Could you check to see if quitting and relaunching OmniFocus has any affect on the issue? I’ve set my Mac’s Date & Region Preferences to match yours, and I’m still unable to reproduce the issue on my Mac.
 
 We were also wondering if you used a utility to create the animated gif you sent in illustrating the issue on your Mac - it’s a pretty affective way of communicating app behavior!
 
@@ -47,4 +47,14 @@ Quitting and relaunching OmniFocus has no effect on the issue; and rebooting my 
 For that GIF, I captured a movie using QuickTime’s screen recorder (http://support.apple.com/en-us/HT201066), then turned it into a GIF with GIF Brewery (http://gifbrewery.com). That’s a fiddly way to do it; a simpler, free choice which you could use is LICEcap: http://www.cockos.com/licecap/.
 
 Thanks,
+Chris
+
+## My reply
+
+A few more notes…
+
+- It turns out this only happens in the Inspector view, not when editing an action in the “central” view. (See attached GIF.)
+- Turning off 24-hour time in Language & Region has no effect on this behavior.
+- This is also reproducible on my coworker’s Mac.
+
 Chris
