@@ -24,3 +24,27 @@ I have nothing custom set in the Language & Region preference. I attached a scre
 
 Chris
 
+## Human reply
+
+Hi Chris,
+
+Thanks for following up with that info! Could you check to see if quitting and relaunching OmniFocus has any affect on the issue? I’ve set my Mac’s Date & Region Preferences to match yours, and I’m still unable to reproduce the issue on my Mac. 
+
+We were also wondering if you used a utility to create the animated gif you sent in illustrating the issue on your Mac - it’s a pretty affective way of communicating app behavior!
+
+Sincerely,
+
+Ainsley B.
+Support Human
+The Omni Group
+
+## My reply
+
+Hi Ainsley,
+
+Quitting and relaunching OmniFocus has no effect on the issue; and rebooting my Mac has no effect on it either.
+
+For that GIF, I captured a movie using QuickTime’s screen recorder (http://support.apple.com/en-us/HT201066), then turned it into a GIF with GIF Brewery (http://gifbrewery.com). That’s a fiddly way to do it; a simpler, free choice which you could use is LICEcap: http://www.cockos.com/licecap/.
+
+Thanks,
+Chris
