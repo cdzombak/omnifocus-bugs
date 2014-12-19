@@ -58,3 +58,17 @@ A few more notes…
 - This is also reproducible on my coworker’s Mac.
 
 Chris
+
+## Human reply, 2014-12-18
+
+Hi Chris,
+
+Thanks for following up with that information - sorry for the delay getting back to you! I can reproduce this behavior in the Inspector on my Mac as well (I was previously testing this issue in the action outline). I’ve filed a bug report in our development database and attached your email and screenshots. Hopefully we can address this issue in an upcoming update! For the time being though, I’m sorry for any inconvenience this date parsing behavior causes you.
+
+If you have any other questions or suggestions, please don't hesitate to contact me! And thanks for sending along info about creating screencast gifs - we’re always looking for new ways to share troubleshooting information with customers.
+
+Sincerely,
+
+Ainsley B.
+Support Human
+The Omni Group
