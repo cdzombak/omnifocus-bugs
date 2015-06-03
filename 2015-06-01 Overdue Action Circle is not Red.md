@@ -25,3 +25,17 @@ Sorry again for the trouble here — thanks for following up with us via email!
 Do you use OmniFocus with a Mac or iPad, and if so does this issue occur with these devices too? Also, can you send us a screenshot with the details for one of the actions that is still showing a yellow status circle, when it appears it should be red?
 
 Thanks!
+
+## My Reply
+
+Hi,
+
+I don’t have a screenshot right now, but I have noticed a similar issue on my Mac (OF Professional; Product: OmniFocus-MacAppStore-2.2.x Tag: OmniFocus/2.2/GM-v96.2), where something overdue isn’t displayed as such.
+
+I also noticed this last night, where overdue actions appear as such but the Dock icon isn’t updated:
+
+![](2015-06-01 Overdue Action Circle is not Red/overdue-items.png)
+
+![](2015-06-01 Overdue Action Circle is not Red/notification-settings.png)
+
+Chris
