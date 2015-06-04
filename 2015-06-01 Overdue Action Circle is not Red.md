@@ -61,3 +61,6 @@ I have attached an anonymized, zipped copy of my database.
 Thanks,
 Chris
 
+## Human Reply
+
+Thanks for sending your anonymized database. Hopefully, this can help us identify what's the issue here. If you notice anything yourself that seems like it may be related to the issue with your iPhone not showing the proper Overdue/Due Soon status, please don't hesitate to let me know. In the meantime, sorry for any inconvenience these issues cause you!
