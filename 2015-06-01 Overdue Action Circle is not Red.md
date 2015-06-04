@@ -39,3 +39,25 @@ I also noticed this last night, where overdue actions appear as such but the Doc
 ![](2015-06-01 Overdue Action Circle is not Red/notification-settings.png)
 
 Chris
+
+## Human Reply
+
+Hi Chris,
+
+We do have a bug filed for an issue with the badge count in the dock not staying up-to-date on the Mac. Please also double-check though that the "Badge app icon" option is enable for OmniFocus in System Preferences > Notifications.
+
+While I haven't been able to reproduce your original issue myself, I will file a separate bug report on this, so our development team can investigate. 
+
+Would it be possible for you to also send along an anonymized copy of your OmniFocus database to help us as we try reproducing the issue here?  To do so, select Help > Anonymize Database… in the OmniFocus menu bar. This will create a copy of your OmniFocus database, replacing all of the text in your database with “Xxxxx” strings. 
+
+Thanks for your patience here!
+
+## My Reply
+
+Thank you for following up. “Badge App Icon” is enabled for OF.
+
+I have attached an anonymized, zipped copy of my database.
+
+Thanks,
+Chris
+
