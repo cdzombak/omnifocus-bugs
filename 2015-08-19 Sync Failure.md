@@ -87,3 +87,17 @@ I already resolved the error by keeping the sync database right after emailing y
 If this happens again I’ll send my database along with it.
 
 Chris
+
+# Human reply
+
+Hello Chris,
+
+Thanks for getting back to us and thank you for your willingness to help! 
+
+Hopefully we'll be able to get to the bottom of this soon! In the meantime, please let me know if there's anything more I can do!
+
+Sincerely,
+
+April R.
+Support Human
+Omni Group
