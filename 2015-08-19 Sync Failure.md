@@ -49,3 +49,41 @@ OmniFocus 2.6.1 (v97.3.0.240188)
 # Auto reply
 
 Your message has been assigned an ID of [OG #1416450].
+
+# Human reply
+
+Hello,
+
+Thank you for contacting us, I'm sorry for the trouble here! Can you tell me more about what's going on? It looks like you might have run into a bug we've recently encountered and are trying to track down. 
+
+It might help us sort this out, if we could see the Debug info from the device this is happening on. To send that in, follow this link: <http://people.omnigroup.com/kc/DebugOmniFocus/EmailDebugInfo.html>
+
+It would be a really big help if we could see actual database from your iPad. (If you haven't already resolved this error.) Following this link will give allow you to send in the database as a separate email. Let me know if you do send that in, so I can be sure to merge that email with this one! <http://people.omnigroup.com/kc/DebugOmniFocus/EmailDatabase.html> 
+
+If you are agreeable to this, and you sync using the Omni Sync Server, we'd also like to download a copy of your database there for comparison. We do take privacy very seriously around here, but we would also completely understand if you are not comfortable sending this in. 
+
+Either way, any details you can provide could really help get to the bottom of this! I look forward to your reply.
+
+Sincerely,
+
+April R.
+Support Human
+Omni Group
+
+# My reply
+
+Hi,
+
+I am not sure exactly what’s happening. I made a change to a task on my iPad, and tried to sync, and got that error. It’s possible that my Mac had just synced too, or was trying to sync simultaneously, but I’m not 100% on that.
+
+> It might help us sort this out, if we could see the Debug info from the device this is happening on. To send that in, follow this link: <http://people.omnigroup.com/kc/DebugOmniFocus/EmailDebugInfo.html>
+
+Done. Included OG-1416450 in the email.
+
+> It would be a really big help if we could see actual database from your iPad. (If you haven't already resolved this error.)
+
+I already resolved the error by keeping the sync database right after emailing you. I can’t deal with my devices’ DBs diverging; that’s too much a recipe for stress for me, but I’ll do that if I see the error again.
+
+If this happens again I’ll send my database along with it.
+
+Chris
