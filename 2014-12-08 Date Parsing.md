@@ -72,3 +72,18 @@ Sincerely,
 Ainsley B.
 Support Human
 The Omni Group
+
+## My reply, 2015-09-09
+
+Hi Ainsley,
+
+This bug is still affecting me, 9 months later. Any updates?
+
+## Human reply, 2015-09-10
+
+Hi Chris,
+
+Thanks for getting back in touch about this behavior! While this is something we would like to hopefully address in a future OmniFocus update, we have not had a chance to yet. I’m sorry to disappoint! I’ll attach a note to our open bug report for this issue so that the OmniFocus team is aware that this bug is still actively impacting your workflow.
+
+While I hope we can address this issue specifically in the near future, I did want to mention that we are working on a new column-based view mode in OmniFocus for Mac. I personally find that this new view mode makes it much easier to quickly enter dates in the action outline, and I rely on the Inspector less in my workflow. As this issue only affects dates entered in the OmniFocus Inspector, perhaps using the new column view will prevent you from encountering this bug as frequently? A preview image of this view is attached to this tweet, and we’re hoping to ship the finalized update containing this new view mode fairly soon:
+<https://twitter.com/OmniFocus/status/638852243219836928>
