@@ -10,3 +10,7 @@ Attached please find my Language & Region preferences and an anonymized copy of 
 
 Thanks,
 Chris
+
+# Auto reply
+
+Your message has been assigned an ID of [OG #1497805].
