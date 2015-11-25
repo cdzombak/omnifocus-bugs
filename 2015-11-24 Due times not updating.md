@@ -14,3 +14,13 @@ Chris
 # Auto reply
 
 Your message has been assigned an ID of [OG #1497805].
+
+# Human reply
+
+Hi Chris,
+
+Sorry for the trouble, but thanks for reporting it. This sounds like it might related to an existing bug. Did you leave OmniFocus running thru midnight last night?
+
+# My reply
+
+Yes, I did. I always just leave it open constantly.
