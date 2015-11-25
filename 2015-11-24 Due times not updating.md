@@ -24,3 +24,11 @@ Sorry for the trouble, but thanks for reporting it. This sounds like it might re
 # My reply
 
 Yes, I did. I always just leave it open constantly.
+
+# Human reply
+
+Hi Chris,
+
+Thanks for the info. I've filed a new bug, included your notes, and linked it to an existing bug with natural language dates sporadically not updating when the app is left open thru midnight. I can't make any promises, but hopefully we'll be able to track this down and get it fixed in an update. Apologies for the flaw!
+
+If you have any other questions or suggestions, please don't hesitate to contact us!
