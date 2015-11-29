@@ -91,3 +91,11 @@ While I hope we can address this issue specifically in the near future, I did wa
 ## My reply, 2015-11-24
 
 It's been almost a year since I reported this and it's still affecting me. Do you have any updates on this bug?
+
+## Human reply, 2015-11-25
+
+Hi Chris,
+
+I'm sorry but we do not yet have any updates on this bug. I do sincerely apologize for the continued frustration this is causing. While we wish we were able to address every bug (and right away), we often have to prioritize issues that have the largest effect on the greatest number of our customers. This is an issue we would definitely like to fix, but to this point we've needed to direct the focus of our efforts on other fixes. 
+
+I know this is not the answer you were hoping to hear, and I'm sorry for the inconvenience this trouble continues to cause. I can promise you we've not forgotten or overlooked this problem, and I do hope we'll be able direct our attention to this issue soon.
