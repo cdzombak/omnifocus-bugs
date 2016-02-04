@@ -1,3 +1,7 @@
+## Initial Email
+
+**Subject:** OmniFocus not displaying circle for overdue action in red
+
 This is in re: these tweets:
 
 https://twitter.com/OmniFocus/status/605495004677599232

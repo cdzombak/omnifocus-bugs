@@ -1,6 +1,6 @@
 # Initial Email
 
-Subject: OmniFocus 2.4.1 (v103.10 Mac App Store — Pro Edition) Feedback
+**Subject:** OmniFocus 2.4.1 (v103.10 Mac App Store — Pro Edition) Feedback
 
 In the attached screenshot, each of the 4 actions is due at the exact same time—in fact, I just set that time by selecting them all and typing “today” in the Inspector’s due date view.
 

@@ -1,4 +1,4 @@
-# Initial email
+# Initial Email
 
 OmniFocus 2.6.1 (v97.3.0.240188)
 

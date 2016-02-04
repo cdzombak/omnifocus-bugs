@@ -1,6 +1,6 @@
 # Initial Email
 
-Subject: OmniFocus 2.3.1 (v101.5 Mac App Store — Pro Edition) Feedback
+**Subject:** OmniFocus 2.3.1 (v101.5 Mac App Store — Pro Edition) Feedback
 
 In one of my custom perspectives, today I noticed that some of these overdue tasks (screenshot attached) show “today” while others show “14:00”. *All* of these actions are due at the same time; today at 14:00.
 
