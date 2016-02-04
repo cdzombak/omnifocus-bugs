@@ -56,3 +56,10 @@ Sincerely,
 Aaron C.
 Support Human
 The Omni Group
+
+## My reply
+
+Of course, I understand prioritization in the general context of project management. Just checking in.
+
+Thanks,
+Chris
