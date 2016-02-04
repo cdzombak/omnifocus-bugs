@@ -34,3 +34,25 @@ Do you have any update on this feature request?
 
 Thanks,
 Chris
+
+## Human reply, 2016-02-04
+
+Hello again, Chris!
+
+Sorry, but I'm afraid I don't have any updates on the status of your feature request. It's not that we don't want to add this, but from a technical perspective it's unfortunately not as simple a change to make as it might perhaps seem. We're a rather small company, and in order to add it we would need to divert resources from other endeavors that in our estimation provide greater benefit for more users.
+
+For example, Push syncing was also something that required a significant investment of limited engineering resources, but it directly benefits almost every single user of OmniFocus. Push syncing was added to the iOS app in 2.6 and the Mac app in version 2.4: <https://support.omnigroup.com/omnifocus-push-architecture/>
+
+There's also the issue of bug fixes, which tend to take priority over feature requests. Not to mention that maintaining compatibility with all the latest and greatest OS changes from Apple requires a nontrivial application of engineering effort.
+
+If you're interested in a fairly exhaustive list of the things we've been working on since you last emailed us, there's a relevant blog post here: <https://www.omnigroup.com/blog/looking-back-looking-ahead-2016-edition>
+
+For specifics about OmniFocus, the release notes can be found here: <https://www.omnigroup.com/releasenotes/omnifocus/>
+
+In our experience, a software project of meaningful size will have many more feature requests - and bug fixes - attached to it than a team can actually work on and accomplish. You’re always going to end postponing some things you want to work on to a later release, in other words. We'll be keeping this particular request in mind, but I'm afraid I can't give a more specific ETA as to when we expect this to be addressed (as it stands, we've only had one other user request this change, so it's a little lower in the queue). Please keep an eye on the release notes for new versions, since we record changes there. In the meantime at least, I'm sorry for the continued disappointment! Even if you don’t agree with the choices we’re making here, I hope they make at least some sense in the general case of product management.
+
+Sincerely,
+
+Aaron C.
+Support Human
+The Omni Group
