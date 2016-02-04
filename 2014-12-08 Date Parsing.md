@@ -1,3 +1,7 @@
+## Initial Email
+
+**Subject:** OmniFocus 2.0.3 (v87.15 Mac App Store — Pro Edition) Feedback
+
 Entering “12/15 8pm” today — December 8, 2014” — in a date field like Defer or Due date results in the date “12/15/08 6pm”. This seems like a date parsing bug, since usually I am able to enter shorthand dates like that.
 
 ![omnifocus-date-parsing.gif](2014-12-08 Date Parsing/omnifocus-date-parsing.gif)
@@ -105,3 +109,11 @@ Hi Chris,
 I'm sorry but we do not yet have any updates on this bug. I do sincerely apologize for the continued frustration this is causing. While we wish we were able to address every bug (and right away), we often have to prioritize issues that have the largest effect on the greatest number of our customers. This is an issue we would definitely like to fix, but to this point we've needed to direct the focus of our efforts on other fixes. 
 
 I know this is not the answer you were hoping to hear, and I'm sorry for the inconvenience this trouble continues to cause. I can promise you we've not forgotten or overlooked this problem, and I do hope we'll be able direct our attention to this issue soon.
+
+## My reply, 2016-02-04
+
+Hi,
+
+This bug is still affecting me on 2.4.1 (v103.10), in the Mac App Store Pro Edition. Do you have any updates on this?
+
+Chris
