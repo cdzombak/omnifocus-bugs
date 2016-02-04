@@ -10,6 +10,10 @@ I’ve seen this on my iPhone app, running OmniFocus Pro 2.5.3 Universal, severa
 
 Chris Dzombak
 
+![actions](2015-06-01 Overdue Action Circle is not Red/overdue-items.png)
+
+![notification-settings.png](2015-06-01 Overdue Action Circle is not Red/notification-settings.png)
+
 ## Auto Reply
 
 …

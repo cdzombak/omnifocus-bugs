@@ -11,6 +11,10 @@ Attached please find my Language & Region preferences and an anonymized copy of 
 Thanks,
 Chris
 
+![screenshot](2015-11-24 Due times not updating/Screen Shot 2015-11-24 at 15.50.42.png)
+
+![prefs](2015-11-24 Due times not updating/Screen Shot 2015-11-24 at 15.53.00.png)
+
 # Auto reply
 
 Your message has been assigned an ID of [OG #1497805].
