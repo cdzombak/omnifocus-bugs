@@ -60,3 +60,48 @@ Over the past several days I’ve gotten a few messages on both Mac and iOS abou
 
 Chris
 
+## Human reply
+
+Hey Chris,
+
+It's definitely possible that was related. Seeing the sync logs normally give us a better indication of what's going on there. If you'd like to just reset your sync database and create a new 'root' transaction (clearing out anything that might be disconnected) here's how to do that:
+
+Working from your Mac version of OmniFocus:
+
+1. In OmniFocus click on File > Export and change the file format to OmniFocus Document. 
+2. Save that to your desktop or somewhere you'll remember easily.
+
+==If you use OmniFocus 2 for Mac these steps are incorrect- skip down to the alternate steps: 
+
+3. In OmniFocus click on File > Revert to Database Backup
+4. Navigate to that exported file from step 2 and proceed through the prompts to make that your live file.
+5. If the sync dialog comes up, cancel it.
+6. In OmniFocus menu bar click on File > Replace Server Database. 
+
+==Alternate steps for version 2 on the Mac:
+
+3. Find the file that was exported from step 2 and rename it to OmniFocus.ofocus-backup
+4. Double click that file to open it
+5. Click the button in the upper right that says "Revert to this backup" (follow the prompts to revert.)
+6. If the sync dialog comes up, cancel that.
+7. In the OmniFocus menu bar click File > Replace Server Database. 
+
+Now when your other devices attempt to sync you should see a warning telling you that the databases are incompatible. On an iOS device you'll have the option to "Keep Sync Database", go ahead and choose that one. On another Mac version it will automatically take the sync database and backup the old one.
+
+Let me know if there's anything more I can do!
+
+Sincerely,
+
+## My reply
+
+Hi April,
+
+I've already replaced the database on my Mac with the server version; I will certainly try those instructions next time I get a "disconnected toor transaction" error.
+
+> Seeing the sync logs normally give us a better indication of what's going on there.
+
+How can I send those to you for debugging?
+
+Thanks,
+Chris
+
