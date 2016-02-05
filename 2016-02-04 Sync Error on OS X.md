@@ -105,3 +105,12 @@ How can I send those to you for debugging?
 Thanks,
 Chris
 
+## Human Reply, 201-02-05
+
+Hey Chris,
+
+Unfortunately the console logs on iOS devices don't hang around very long, but if this happens again here's the instructions for getting a console log from your device: <http://www.omnigroup.com/support/ios-console-log>
+
+Again, sorry for all the trouble and thank you for all your patience and understanding here! Please let me know if there's anything more I can do!
+
+Sincerely,
