@@ -117,3 +117,22 @@ Hi,
 This bug is still affecting me on 2.4.1 (v103.10), in the Mac App Store Pro Edition. Do you have any updates on this?
 
 Chris
+
+## Human reply, 2016-02-04
+
+Hi Chris,
+
+Sorry, but I'm afraid there aren't any updates on this bug. Unfortunately, this is not an isolated issue we can address with a targeted fix. There are number of issues with our date parsing mechanism that we want to address, but doing so will require a much larger "rip up the floorboards" kind of fix. We'll essentially need to rebuild date parsing in OmniFocus from the ground up again, which will be no small task. We must balance the time and effort it will take to tackle this with our ability to prioritize and address other issues that may have a more pressing impact on our customers.
+
+Again, I know this doesn't do anything to help with the frustration and inconvenience this causes for you right now, but I hope this provides a little more understanding as to why you haven't seen any movement yet. Sorry to disappoint, but thank you for your support and patience!
+
+Sincerely,
+
+## My reply
+
+Hi Christian,
+
+Thanks for the update & the background info!
+
+Chris
+
