@@ -23,4 +23,23 @@ Chris Dzombak
 
 ## Auto Reply
 
+```
+This is the mail system at host omnigroup.com.
 
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                  The mail system
+
+<omnifocus@omnigroup.com>: Command died with status 1: "/usr/local/bin/procmail
+   -a omnifocus /usr/local/lib/procmail/supportmail". Command output: Sorry,
+   but your message appears to be unsolicited commercial e-mail, and has
+   therefore been automatically rejected by our e-mail delivery software.  If
+   you feel your message was rejected in error, please contact The Omni Group
+   at postmaster@omnigroup.com or +1 206 523 4152.   
+```
