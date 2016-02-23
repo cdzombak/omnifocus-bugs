@@ -55,3 +55,15 @@ delete your own text from the attached returned message.
 ## [My Reply](https://twitter.com/cdzombak/status/701948854086795264)
 
 @OmniFocus no, that hasn’t happened before. Just to be sure: should I try to re-send, then, or has my report been noted?
+
+## [@OmniFocus reply](https://twitter.com/OmniFocus/status/702213523636510721)
+
+@cdzombak The person working the account yesterday isn’t accessible @ the moment, but will make sure this gets filed. Better 2 times than 0.
+
+## [@OmniFocus reply](https://twitter.com/OmniFocus/status/702214392176193536)
+
+@cdzombak Looking @ s’shot, was ‘due today’ time inherited from the action group or project the rows belonged to? (Yellow, just below them.)
+
+## [My reply](https://twitter.com/cdzombak/status/702227638681792513)
+
+@OmniFocus In one case, due time was inherited from the parent project; in another case, due time was assigned to the specific action
