@@ -16,3 +16,10 @@ Chris Dzombak
 ## Auto Reply
 
 Your message has been assigned an ID of [OG #1538396].
+
+## Human reply
+
+Chris-
+I’m sorry for the distraction that’s causing! I’ll get this report written up right away so the rest of the team knows you’re being affected by this issue. 
+
+Sincerely,
