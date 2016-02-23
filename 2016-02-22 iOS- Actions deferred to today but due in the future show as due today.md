@@ -43,3 +43,15 @@ delete your own text from the attached returned message.
    you feel your message was rejected in error, please contact The Omni Group
    at postmaster@omnigroup.com or +1 206 523 4152.   
 ```
+
+## [My tweet](https://twitter.com/cdzombak/status/701879627824939009)
+
+@OmniFocus @OmniGroup I tried sending this bug report to OF support but it was bounced as spam. Please help? https://t.co/eokBB5jwAh
+
+## [@OmniFocus Reply](https://twitter.com/OmniFocus/status/701914516452302848)
+
+@cdzombak Sorry about the bounce; has that happened before? We have an open report about the Forecast behavior, as well; adding your info!
+
+## [My Reply](https://twitter.com/cdzombak/status/701948854086795264)
+
+@OmniFocus no, that hasn’t happened before. Just to be sure: should I try to re-send, then, or has my report been noted?
