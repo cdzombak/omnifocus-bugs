@@ -85,3 +85,11 @@ delete your own text from the attached returned message.
 ## [My reply](https://twitter.com/cdzombak/status/702533842914156544)
 
 @kcase thanks, Ken! Do you have an OG bug # (maybe from https://t.co/2Dzxx4eLb5 ) that I can save for future reference?
+
+## [@kcase reply](https://twitter.com/kcase/status/702535326028341249)
+
+@cdzombak Yes, we're tracking it as <bug:///124970>.
+
+## [My reply](https://twitter.com/cdzombak/status/702535711942176769)
+
+@kcase thank you 😊
