@@ -67,3 +67,13 @@ delete your own text from the attached returned message.
 ## [My reply](https://twitter.com/cdzombak/status/702227638681792513)
 
 @OmniFocus In one case, due time was inherited from the parent project; in another case, due time was assigned to the specific action
+
+## [@OmniFocus reply](https://twitter.com/OmniFocus/status/702277137634439168)
+
+@cdzombak In ambiguous cases, OmniFocus picks the earliest date it can find, since real-world consequences are likely to be lesser.
+
+## My reply
+
+[1/2](https://twitter.com/cdzombak/status/702509420983545856): @OmniFocus understood, but this is *not* ambiguous… (1/2)
+
+[2/2](https://twitter.com/cdzombak/status/702509739691909120): @OmniFocus …items w/no due date, inheriting future due date from parent project, shouldn't be displayed "Due 18:00", but instd "Due Feb. 28"
