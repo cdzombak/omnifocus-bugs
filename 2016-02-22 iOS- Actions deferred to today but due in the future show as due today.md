@@ -56,13 +56,11 @@ delete your own text from the attached returned message.
 
 @OmniFocus no, that hasn’t happened before. Just to be sure: should I try to re-send, then, or has my report been noted?
 
-## [@OmniFocus reply](https://twitter.com/OmniFocus/status/702213523636510721)
+## @OmniFocus reply
 
-@cdzombak The person working the account yesterday isn’t accessible @ the moment, but will make sure this gets filed. Better 2 times than 0.
+[1/2](https://twitter.com/OmniFocus/status/702213523636510721): @cdzombak The person working the account yesterday isn’t accessible @ the moment, but will make sure this gets filed. Better 2 times than 0.
 
-## [@OmniFocus reply](https://twitter.com/OmniFocus/status/702214392176193536)
-
-@cdzombak Looking @ s’shot, was ‘due today’ time inherited from the action group or project the rows belonged to? (Yellow, just below them.)
+[2/2](https://twitter.com/OmniFocus/status/702214392176193536): @cdzombak Looking @ s’shot, was ‘due today’ time inherited from the action group or project the rows belonged to? (Yellow, just below them.)
 
 ## [My reply](https://twitter.com/cdzombak/status/702227638681792513)
 
@@ -77,3 +75,13 @@ delete your own text from the attached returned message.
 [1/2](https://twitter.com/cdzombak/status/702509420983545856): @OmniFocus understood, but this is *not* ambiguous… (1/2)
 
 [2/2](https://twitter.com/cdzombak/status/702509739691909120): @OmniFocus …items w/no due date, inheriting future due date from parent project, shouldn't be displayed "Due 18:00", but instd "Due Feb. 28"
+
+## @kcase reply
+
+[1/2](https://twitter.com/kcase/status/702532300341276672): @cdzombak Agree, that's very much a bug: due should always show a date rather than a time when the date doesn't match the Forecast date.
+
+[2/2](https://twitter.com/kcase/status/702533750609940482): @cdzombak (It's only a bug on iPad, which is why it escaped our notice before. Mac handles this correctly, iPhone never shows both dates.)
+
+## [My reply](https://twitter.com/cdzombak/status/702533842914156544)
+
+@kcase thanks, Ken! Do you have an OG bug # (maybe from https://t.co/2Dzxx4eLb5 ) that I can save for future reference?
