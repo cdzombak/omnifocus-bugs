@@ -16,3 +16,23 @@ Chris Dzombak
 ## Auto Reply
 
 Your message has been assigned an ID of [OG #1539740].
+
+## Human Reply
+
+Chris-
+Wow. In all my years of staring at OmniFocus, how did I never notice that? Good eye for detail and thank you very much for sending this in; will file this as a bug right away!
+
+Sincerely,
+
+## Human Reply
+
+Chris-
+Good news! In going to write up the bug, it turns out this is actually a new issue which should be fixed in an upcoming release. Hope that helps.
+
+Sincerely,
+
+## My Reply
+
+Great; thanks for the info!
+
+Chris
