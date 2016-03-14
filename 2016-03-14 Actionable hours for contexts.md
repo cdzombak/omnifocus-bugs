@@ -18,3 +18,11 @@ Chris Dzombak
 ## Auto Reply
 
 Your message has been assigned an ID of [OG #1547265].
+
+## Human Reply
+
+Hi Chris, thanks for contacting us!
+
+There's an existing feature request to add time-based availability schedules for contexts, as you describe — I've let the rest of the team know you'd like to see this, too. Thanks for the suggestion! We can't work in every feature that our users suggest, but we really appreciate them, and we can promise that each suggestion will be read and considered.
+
+If you need any additional assistance, or if you have any other questions or suggestions, please don't hesitate to get in touch. We really appreciate your support!
