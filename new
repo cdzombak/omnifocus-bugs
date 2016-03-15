@@ -1,0 +1,46 @@
+#!/bin/bash
+# Warning: this script assumes it's contained in the root of the omnifocus-bugs project.
+
+set -o nounset
+set -o errexit
+
+if [[ $# -eq 0 ]] ; then
+    echo 'usage: new "Title" [-img]'
+    exit 1
+fi
+
+TITLE="$1"
+DATE_FORMATTED="$(date +%F)"
+FILENAME="$DATE_FORMATTED $TITLE.md"
+
+if [[ -f "$FILENAME" ]] ; then
+    echo "!!! file exists: $FILENAME"
+    exit 2
+else
+    echo "creating: $FILENAME"
+fi
+
+cat << EOF > "$FILENAME"
+## Initial Email
+
+**Subject:** "$TITLE"
+
+TKTK: EMAIL BODY AND ATTACHMENTS
+
+## Auto Reply
+
+Your message has been assigned an ID of [OG #TKTK].
+
+## Human Reply
+
+_Waiting on a response._
+
+EOF
+
+if [[ $# -eq 2 ]] ; then
+    if [ "$2" == "-img" ] ; then
+        mkdir "$DATE_FORMATTED $TITLE"
+    fi
+fi
+
+open -a "MacDown" -g "$FILENAME"
