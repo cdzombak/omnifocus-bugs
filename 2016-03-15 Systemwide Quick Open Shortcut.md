@@ -15,4 +15,4 @@ Your message has been assigned an ID of [OG #1547617].
 
 ## Human Reply
 
-_TKTK_
+_Waiting for a reply._
