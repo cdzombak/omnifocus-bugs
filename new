@@ -23,7 +23,7 @@ fi
 cat << EOF > "$FILENAME"
 ## Initial Email
 
-**Subject:** "$TITLE"
+**Subject:** $TITLE
 
 TKTK: EMAIL BODY AND ATTACHMENTS
 
