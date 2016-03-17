@@ -19,5 +19,32 @@ Your message has been assigned an ID of [OG #1548239].
 
 ## Human Reply
 
-_Waiting on a response._
+Hey Chris, thanks for writing to us, and happy Thursday! 
 
+Apologies for the trouble here! I wasn't able to replicate this issue here, though that doesn't mean this isn't happening to you! Can you tell me which version of OS X you're currently running? 
+
+If possible, would you be able to send me a screen recording that shows this in action?  
+
+You should be able to create a screencast using QuickTime Player.  To do that, click the Spotlight menu bar helper icon in the top right corner of your screen, search for QuickTime and launch it from the search results.  Then select File > New Screen Recording from the menu bar and click the red record button.  At that point you should be able to choose whether to record the entire screen or just a specified portion of it.  Once recording has begun, select a row, copy as link and attempt to paste that link elsewhere int the document. When you’re done, click the stop recording icon in the menu bar, and use QuickTime Player’s "File > Save…” option and send the resulting file in to me by uploading it to our secure upload site here: <https://upload.omnigroup.com>
+
+This Apple support article also contains more detailed information about how to take a screen recording:
+<http://support.apple.com/kb/PH5882>
+
+Let me know after you’ve uploaded your video and I'll see if I can determine what's going wrong here.
+
+Looking forward to your reply!
+
+Best,
+
+## My Reply
+
+Happy Thursday!
+
+A screen recording is available here: https://dropbox.dzombak.com/omni/2016-03-17%20outliner%20copy%20as%20link.mov
+
+While recording that, I noticed I actually can paste the link back into OmniOutliner but _not_ into applications expecting plain text (like nvALT or Sublime Text). I typically only use these links in plain text documents. I suspect this difference will be useful in debugging.
+
+I am running OS X 10.11.3.
+
+Thanks,
+Chris
