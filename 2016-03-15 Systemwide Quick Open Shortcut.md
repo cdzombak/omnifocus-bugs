@@ -15,4 +15,10 @@ Your message has been assigned an ID of [OG #1547617].
 
 ## Human Reply
 
-_Waiting for a reply._
+Hi Chris,
+
+Nice Applescript! We do have a feature request open on making the shortcut system-wide. I’ll attach your email to that item in our development database so the rest of the team will know this is something you’d like to see us add.
+
+I hope that helps, but if it doesn't, or if you have any other questions or suggestions, please don't hesitate to contact me. We really appreciate your support!
+
+Sincerely,
