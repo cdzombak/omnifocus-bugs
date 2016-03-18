@@ -48,3 +48,24 @@ I am running OS X 10.11.3.
 
 Thanks,
 Chris
+
+## Human Reply
+
+Chris,
+
+Thanks for sending that over! I've filed a bug about this behavior for our engineers to investigate, but I'm not sure if it's ultimately something we'd be able to address; it sounds like those third party target apps aren't looking for the "type" of content on the pasteboard, which is why when you paste in those apps nothing happens. 
+
+As a potential workaround, you could paste the link in OmniOutliner and copy that content and paste in another app? I tested this out and it works with sublime text and nvALT. I realize it's not the best workflow, but wanted to offer that idea in case it helps in the meantime!
+
+If you have any other questions or suggestions, please don't hesitate to let me know. Thanks for your support, we really appreciate it!
+
+Best,
+
+## My Reply
+
+Thanks, _name_.
+
+I do hope this is something that can be addressed. I can copy and paste text from other apps as expected, and even copying a link from OmniFocus into these apps works as I expect. OmniOutliner is the outlier.
+
+Thanks,
+Chris
