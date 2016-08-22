@@ -63,3 +63,7 @@ Of course, I understand prioritization in the general context of project managem
 
 Thanks,
 Chris
+
+## My reply, via Twitter, 2016-08-22
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/OmniFocus">@omnifocus</a> any good news on request OG #1276467? This screenshot is … frustrating: <a href="https://t.co/bpQtFZx8ZX">pic.twitter.com/bpQtFZx8ZX</a></p>&mdash; Chris Dzombak (@cdzombak) <a href="https://twitter.com/cdzombak/status/767816026016874501">August 22, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
