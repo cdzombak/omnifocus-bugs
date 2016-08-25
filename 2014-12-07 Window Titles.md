@@ -64,6 +64,14 @@ Of course, I understand prioritization in the general context of project managem
 Thanks,
 Chris
 
-## My reply, via Twitter, 2016-08-22
+## Checkin via Twitter, 2016-08-22
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/OmniFocus">@omnifocus</a> any good news on request OG #1276467? This screenshot is … frustrating: <a href="https://t.co/bpQtFZx8ZX">pic.twitter.com/bpQtFZx8ZX</a></p>&mdash; Chris Dzombak (@cdzombak) <a href="https://twitter.com/cdzombak/status/767816026016874501">August 22, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/cdzombak">@cdzombak</a> I’m afraid not. You could try Focusing in your different Projects perspective windows as a workaround: <a href="https://t.co/6uHFTfkilo">pic.twitter.com/6uHFTfkilo</a></p>&mdash; OmniFocus (@OmniFocus) <a href="https://twitter.com/OmniFocus/status/768151642814357504">August 23, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/OmniFocus">@OmniFocus</a> iiinteresting. Is there a way to automate that in concert with ⌘O, maybe via AppleScript?</p>&mdash; Chris Dzombak (@cdzombak) <a href="https://twitter.com/cdzombak/status/768151967289921536">August 23, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/cdzombak">@cdzombak</a> I don&#39;t think that would be possible. Best option is probably just using ⌘⇧F immediately after using Quick Open.</p>&mdash; OmniFocus (@OmniFocus) <a href="https://twitter.com/OmniFocus/status/768237968075005952">August 24, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/OmniFocus">@OmniFocus</a> okay. Thanks anyway.</p>&mdash; Chris Dzombak (@cdzombak) <a href="https://twitter.com/cdzombak/status/768241731133288448">August 24, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
