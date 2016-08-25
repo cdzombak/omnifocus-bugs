@@ -40,3 +40,8 @@ I updated to 2.6.2 (v109.3.9) and my attachments are still missing.
 
 _Waiting on a response._
 
+## Twitter thread
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/cdzombak">@cdzombak</a> Hmm…the attachments seem like they might still be there. Try File ▸ Rebuild Database… Let me know what happens.</p>&mdash; OmniFocus (@OmniFocus) <a href="https://twitter.com/OmniFocus/status/768845269236457472">August 25, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/OmniFocus">@OmniFocus</a> that seems to have helped. thank you.</p>&mdash; Chris Dzombak (@cdzombak) <a href="https://twitter.com/cdzombak/status/768845901657878528">August 25, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
