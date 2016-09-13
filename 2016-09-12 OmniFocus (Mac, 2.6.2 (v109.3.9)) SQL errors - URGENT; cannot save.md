@@ -82,6 +82,10 @@ I've asked around and it doesn't seem like there's a way to get around the Save 
 
 Thanks again, and sorry again—
 
+## Tweet from Ken
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/cdzombak">@cdzombak</a> The only time I’ve seen this happen is when another app reaches into our sandbox and deletes our SQL database. Use a cleaning app?</p>&mdash; Ken Case (@kcase) <a href="https://twitter.com/kcase/status/775462798360850432">September 12, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## My Reply
 
 > Were you perhaps doing any other system maintenance, or running two copies of the app simultaneously temporarily?
