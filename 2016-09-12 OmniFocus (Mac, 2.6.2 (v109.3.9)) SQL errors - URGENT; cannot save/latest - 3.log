@@ -1,0 +1,26 @@
+9/12/16 12:01:05.792	OmniFocus[432]	CFNetwork SSLHandshake failed (-9806)
+9/12/16 12:01:05.792	OmniFocus[432]	NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)
+9/12/16 12:01:05.802	OmniFocus[432]	Sync terminated with error: {
+    code = "-1200";
+    domain = NSURLErrorDomain;
+    userInfo =     {
+        NSErrorFailingURLKey = "https://cdzombak@sync.omnigroup.com/cdzombak/OmniFocus.ofocus/";
+        NSErrorFailingURLStringKey = "https://cdzombak@sync.omnigroup.com/cdzombak/OmniFocus.ofocus/";
+        NSLocalizedDescription = "An SSL error has occurred and a secure connection to the server cannot be made.";
+        NSLocalizedRecoverySuggestion = "Would you like to connect to the server anyway?";
+        NSUnderlyingError =         {
+            code = "-1200";
+            domain = kCFErrorDomainCFNetwork;
+            userInfo =             {
+                "_kCFNetworkCFStreamSSLErrorOriginalValue" = "-9806";
+                "_kCFStreamErrorCodeKey" = "-9806";
+                "_kCFStreamErrorDomainKey" = 3;
+                "_kCFStreamPropertySSLClientCertificateState" = 0;
+            };
+        };
+        "_kCFStreamErrorCodeKey" = "-9806";
+        "_kCFStreamErrorDomainKey" = 3;
+    };
+}
+9/12/16 13:30:26.264	pkd[448]	enabling pid=521 for plug-in com.omnigroup.OmniFocus2.MacAppStore.Today(2.6.2) BA111569-DFF6-4C7E-8520-39146ACEB474 /Applications/OmniFocus.app/Contents/PlugIns/Today.appex
+9/12/16 13:30:39.998	NotificationCenter[521]	plugin com.omnigroup.OmniFocus2.MacAppStore.Today invalidated

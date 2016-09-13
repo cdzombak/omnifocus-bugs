@@ -1,0 +1,327 @@
+9/12/16 13:33:31.191	OmniFocus[432]	The network connection was lost.: (null)
+9/12/16 14:16:48.459	OmniFocus[432]	Sync data not yet integrated: Integration of synced changes has been deferred until the user finishes editing.
+9/12/16 14:25:13.174	OmniFocus[432]	Presenting modal error for document file:///Users/cdzombak/Library/Containers/com.omnigroup.OmniFocus2.MacAppStore/Data/Library/Application%20Support/OmniFocus/OmniFocus.ofocus/: {
+    code = 24;
+    domain = "com.omnigroup.OmniFocus.Model.ErrorDomain";
+    userInfo =     {
+        NSLocalizedDescription = "Unable to back up database.";
+        NSLocalizedRecoverySuggestion = "Backup was prevented: Unable to back up database.";
+        NSUnderlyingError =         {
+            code = 2130;
+            domain = "com.omnigroup.OmniFocus.ErroDomain";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to back up database.";
+                NSLocalizedRecoverySuggestion = "Cannot back up while synchronizing.";
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Applications/OmniFocus/App/Document.m:2122";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Applications/OmniFocus/Model/OFMDataStore-Backup.m:476";
+    };
+}
+9/12/16 14:25:13.174	OmniFocus[432]	Presenting modal error: {
+    code = 24;
+    domain = "com.omnigroup.OmniFocus.Model.ErrorDomain";
+    userInfo =     {
+        NSLocalizedDescription = "Unable to back up database.";
+        NSLocalizedRecoverySuggestion = "Backup was prevented: Unable to back up database.";
+        NSUnderlyingError =         {
+            code = 2130;
+            domain = "com.omnigroup.OmniFocus.ErroDomain";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to back up database.";
+                NSLocalizedRecoverySuggestion = "Cannot back up while synchronizing.";
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Applications/OmniFocus/App/Document.m:2122";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Applications/OmniFocus/Model/OFMDataStore-Backup.m:476";
+    };
+}
+9/12/16 15:12:46.148	OmniFocus[432]	Handling URL <omnifocus:///add?note=https%3A%2F%2Ftheintercept.com%2F2016%2F09%2F12%2Flong-secret-stingray-manuals-detail-how-police-can-spy-on-phones%2F&name=Long-Secret%20Stingray%20Manuals%20Detail%20How%20Police%20Can%20Spy%20on%20Phones>: parameters={
+    "__self__" = "<OFMultiValueDictionary: 0x7fc1bce9e320>";
+    dictionary =     {
+        name =         (
+            "Long-Secret Stingray Manuals Detail How Police Can Spy on Phones"
+        );
+        note =         (
+            "https://theintercept.com/2016/09/12/long-secret-stingray-manuals-detail-how-police-can-spy-on-phones/"
+        );
+    };
+}
+9/12/16 15:12:57.935	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'COMMIT'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'COMMIT'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'COMMIT'.";
+                NSUnderlyingError =                 {
+                    code = 5;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot commit transaction - SQL statements in progress";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:41:36.242	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:45:32.708	OmniFocus[432]	Presenting document modal error: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+} 
+9/12/16 15:45:32.708	OmniFocus[432]	Presenting application modal error for window Attn [Proj]: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:45:32.708	OmniFocus[432]	Presenting application modal error for window Attn [Proj]: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:45:33.279	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:51:16.950	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:51:17.520	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:52:55.535	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:54:18.443	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:54:19.021	OmniFocus[432]	Error saving at end of operation: {
+    code = 6;
+    domain = "com.omnigroup.OmniDataObjects";
+    userInfo =     {
+        NSLocalizedDescription = "The document \U201cOmniFocus\U201d could not be saved. Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+        NSUnderlyingError =         {
+            code = 6;
+            domain = "com.omnigroup.OmniDataObjects";
+            userInfo =             {
+                NSLocalizedDescription = "Unable to execute SQL.";
+                NSLocalizedFailureReason = "Unable to run SQL for statement 'BEGIN EXCLUSIVE'.";
+                NSUnderlyingError =                 {
+                    code = 1;
+                    domain = "org.sqlite.sqlite3";
+                    userInfo =                     {
+                        NSLocalizedDescription = "cannot start a transaction within a transaction";
+                    };
+                };
+                "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+            };
+        };
+        "com.omnigroup.framework.OmniBase.ErrorDomain.FileLineAndNumber" = "/Volumes/LocalSSD/Users/Shared/omnibuild/ReleaseProduct/Source/OmniGroup/Frameworks/OmniDataObjects-OldModel/ODOSQLStatement.m:420";
+    };
+}
+9/12/16 15:58:04.898	iTerm2[44480]	Time to encode state for window <PseudoTerminal: 0x7fe683e55a10 tabs=1 window=<PTYWindow: 0x7fe683f46d80 frame=NSRect: {{200, 292}, {652, 478}} title=/Users/cdzombak/code/omnifocus-bugs (zsh) alpha=1.000000 isMain=0 isKey=0 isVisible=1 delegate=0x7fe683e55a10>>: 0.002223014831542969
+9/12/16 15:58:27.346	iTerm2[44480]	Time to encode state for window <PseudoTerminal: 0x7fe683e55a10 tabs=1 window=<PTYWindow: 0x7fe683f46d80 frame=NSRect: {{200, 292}, {652, 478}} title=/Users/cdzombak/code/omnifocus-bugs (zsh) alpha=1.000000 isMain=0 isKey=0 isVisible=1 delegate=0x7fe683e55a10>>: 0.001662969589233398
+9/12/16 15:58:43.177	iTerm2[44480]	Time to encode state for window <PseudoTerminal: 0x7fe683e55a10 tabs=1 window=<PTYWindow: 0x7fe683f46d80 frame=NSRect: {{200, 292}, {652, 478}} title=/Users/cdzombak/code/omnifocus-bugs (zsh) alpha=1.000000 isMain=0 isKey=0 isVisible=1 delegate=0x7fe683e55a10>>: 0.001878023147583008
