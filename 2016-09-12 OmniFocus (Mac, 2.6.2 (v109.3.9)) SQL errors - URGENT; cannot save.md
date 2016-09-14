@@ -109,3 +109,38 @@ Chris
 
 ![](2016-09-12 OmniFocus (Mac, 2.6.2 (v109.3.9)) SQL errors - URGENT; cannot save/Screen Shot 2016-09-12 at 20.37.10.png)
 ![](2016-09-12 OmniFocus (Mac, 2.6.2 (v109.3.9)) SQL errors - URGENT; cannot save/Screen Shot 2016-09-12 at 20.37.17.png)
+
+## Human Reply
+
+Hi Chris,
+
+Thanks for the extra info, and for your patience. As you might have gathered from Ken's tweet, this really isn't something we have seen before without the influence of a "bad OS citizen" so my hope is that we can get to the bottom of it and restore your confidence.
+
+An engineer and I looked at the console logs and it seems like at least the zero-byte attachments are caused by OmniFocus not being able to read the root transaction inside your database in order to get their true sizes. This results in console messages containing errors like:
+
+   Unable to open zip archive 00000000000000=pIo9PZq5k8M+jZo4rSn9805.zip.
+
+If you inspect this file manually, are you unable to unzip it? It should found in the location:
+
+   ~/Library/Containers/com.omnigroup.OmniFocus2/Data/Library/Application Support/OmniFocus/OmniFocus.ofocus
+
+Using Go > Go To Folder... in Finder (or ⇧⌘G) is probably the easiest way to get there. 
+
+Sincerely,
+
+## My Reply
+
+> An engineer and I looked at the console logs and it seems like at least the zero-byte attachments are caused by OmniFocus not being able to read the root transaction inside your database in order to get their true sizes.
+
+That makes some sense — over the past couple of months I have seen sporadic "disconnected root transaction" error messages on various devices. I typically click "repair" on that dialog when it appears.
+
+In this case, I resolved it by telling OmniFocus on the Mac to rebuild its database (per directions from OG #1626010, the first & most recent time this happened to me).
+
+> As you might have gathered from Ken's tweet, this really isn't something we have seen before without the influence of a "bad OS citizen" so my hope is that we can get to the bottom of it and restore your confidence.
+
+I really wish I had anything more to share — I wasn't doing anything out of the ordinary, just going about my usual morning/early-afternoon routine of reading email and adding & rearranging things in OmniFocus.
+
+If you can think of anything else you want me to provide, please let me know,
+
+Thanks,
+Chris
