@@ -144,3 +144,19 @@ If you can think of anything else you want me to provide, please let me know,
 
 Thanks,
 Chris
+
+## Human Reply
+
+Hi Chris,
+
+Thanks for that extra info. The timeframe of a few months is interesting, because we added some code to "re-stitch" disconnected transactions around that time. We're actually removing that code in the next release due to some problems other than the one you're seeing, so I'll definitely be interested to hear if you see this again in v2.7 and higher. If this problem was due to the same circumstance that the removed code was originally put in place to address, you should start to see alerts that prompt you to replace your local database instead. If you do see that, could you reply to this ticket and let me know? The debug information that comes along with that error might help us track down the root cause of your recent trouble.
+
+Thanks again! 
+
+## My Reply
+
+I will keep an eye out for alerts like that.
+
+That's interesting, because before thsi spring, I can recall being asked on a few occasions to replace the database on one or another of my devices.
+
+Is it possible there's some recurring or persistent glitch in _my_ database in particular that's causing this to happen every couple of weeks/months?
