@@ -160,3 +160,22 @@ I will keep an eye out for alerts like that.
 That's interesting, because before thsi spring, I can recall being asked on a few occasions to replace the database on one or another of my devices.
 
 Is it possible there's some recurring or persistent glitch in _my_ database in particular that's causing this to happen every couple of weeks/months?
+
+## Human Reply
+
+Hi Chris,
+
+It's more likely to be a specific usage pattern than a corrupted database, but I'd be happy to take a look to make sure. If you're syncing with our server, the easiest way to do that is for you to give me explicit permission to download a copy of your user account directory from the DAV server directly. A reply to this email indicating that permission is all we need there.
+
+Sincerely,
+
+## My Reply
+
+I am syncing with your server and I'll give you permission to do that to check for any sort of corruption.
+
+> It's more likely to be a specific usage pattern than a corrupted database
+
+Do you have any hints about usage patterns to avoid, in order to avoid things like this?
+
+Thanks!
+Chris
