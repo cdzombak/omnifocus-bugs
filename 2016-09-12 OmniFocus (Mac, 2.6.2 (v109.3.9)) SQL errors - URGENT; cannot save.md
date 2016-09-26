@@ -179,3 +179,34 @@ Do you have any hints about usage patterns to avoid, in order to avoid things li
 
 Thanks!
 Chris
+
+## Human Reply
+
+Hi Chris,
+
+`###` is stuck in meetings all day, so I'm jumping in. I don't see any obvious problems with the database structure on the server. However, it is encrypted, so I can't check anything beyond the sync transaction history and the registered sync clients. 
+
+Did you get a chance to try manually unzipping this file? N.B.: It'd be best to make a copy of the file and move it to a different location before trying, so as not to affect the active database.
+
+~/Library/Containers/com.omnigroup.OmniFocus2.MacAppStore/Data/Library/Application Support/OmniFocus/OmniFocus.ofocus/00000000000000=pIo9PZq5k8M+jZo4rSn9805.zip
+
+One theory is that there might be some compression problem in that file, so if you get any errors trying to open that file, please let me know before proceeding. It should contain at least a "contents.xml" file, and likely also a folder named "data". The "data" folder will only be there if you have embedded attachments in the database.
+
+If that file does expand without any problems, I'd suggest using this procedure to compact and rebuild the database, which should also reset all the sync history. 
+
+Please note -- this procedure will compact and rebuild the database on one of the Macs and then replace all the other databases with the rebuilt one, so before proceeding you'll want to be certain that is okay.
+
+These instructions are specific to OmniFocus 2.6.2 or later for Mac.
+
+- Export the OmniFocus database by selecting: File > Export...
+- Make sure to change the File Format popup menu to "Backup Document (OmniFocus)"
+- Double-click that file
+- When the new window opens in OmniFocus click "Revert to this backup" in the upper right corner 
+- Wait for it to finish
+- It should automatically push out to your other devices, but if prompted on the other sync clients choose to "Keep Sync Database"
+
+Regarding usage patterns, to prevent runaway accumulation of sync transaction files OmniFocus automatically unregisters sync clients if they don't sync for 3 weeks. We added some code (since removed in 2.7) that would try to re-stich sync clients that had only recently been unregistered. Do you have any devices that potentially didn't sync with OmniFocus for about 22 days? 
+
+Sorry again for all the trouble here. Please let me know if you have any questions!
+
+Best regards,
